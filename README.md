@@ -1,16 +1,13 @@
-# to_do_app
+# Flutter To-Do List App
 
-A new Flutter project.
+A minimal and interactive todo list made with **Flutter**.  
+Keep track of tasks, add new items, check items as complete, and delete tasks with ease.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- Add, edit, and delete tasks
+- Mark tasks as complete/incomplete
+- Storage using local device storage (Hive) 
+- Clean and responsive Material Design UI
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
